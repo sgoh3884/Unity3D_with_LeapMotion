@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b8713887c30a93244821c17a139da097
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SeoulNamsanC
+  fontNames:
+  - SeoulNamsanC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a375ad18bd71158479fe5139a90b0531, type: 3}
+  - {fileID: 12800000, guid: 00a6391959937064eafd6f1667f9224a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
